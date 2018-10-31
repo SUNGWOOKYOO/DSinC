@@ -1,0 +1,4 @@
+﻿  BinarySearchTree.c
+d:\공부\전공\대학원\2. 자료구조\윤성우 자료구조\coding\datastructure\swyoo\18_search1\binarysearchtree.c(168): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  18_Search1.vcxproj -> D:\공부\전공\대학원\2. 자료구조\윤성우 자료구조\coding\datastructure\swyoo\Debug\18_Search1.exe
+  18_Search1.vcxproj -> D:\공부\전공\대학원\2. 자료구조\윤성우 자료구조\coding\datastructure\swyoo\Debug\18_Search1.pdb (Partial PDB)
